@@ -1,2 +1,4 @@
-week*
 .idea
+.DS_Store
+target/
+/week*
